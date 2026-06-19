@@ -1,0 +1,14 @@
+OPTUNA STUDY SUMMARY
+========================================
+
+Trials Completed: 10
+Best Accuracy: 87.22%
+Associated Loss: 0.403984
+
+Best Parameters
+--------------------
+lr: 0.0003510318520719163
+batch_size: 64
+optimizer: RMSprop
+num_conv_layers: 6
+num_filters: 128

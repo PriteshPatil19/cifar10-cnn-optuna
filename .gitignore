@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+
+# Environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optuna cache
+*.db
